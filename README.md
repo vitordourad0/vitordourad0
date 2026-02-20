@@ -19,7 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)
+
 
 #### Databases:
 
