@@ -1,18 +1,4 @@
 ### Olá! Eu sou o Vitor Dourado
-##
-  <div>
-    <a href="https//github.com/vitordourad0">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordourad0&show_icons=true&theme=dracula&include_all_commmits=true&count_private=true">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordourad0&layout=compact&langs_count=16&theme=dracula">
-      
-  </div>
-<div  align="center" style="margin-bottom:100px">
-<img height="180em"  align="justify"  src="https://github-readme-streak-stats.herokuapp.com?user=vitordourad0&theme=dracula&mode=weekly" />
-
- </div>
-  &nbsp;
- &nbsp;
-
 ## My Skills
 
 #### Main Stack:
