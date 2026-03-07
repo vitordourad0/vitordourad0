@@ -1,4 +1,4 @@
-### Olá! Eu sou o Dev Vitor Dourado
+### Hi! I am Dev Vitor Dourado
 ## My Skills
 
 #### Back End:
