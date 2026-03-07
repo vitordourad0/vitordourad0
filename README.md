@@ -1,22 +1,20 @@
-### Olá! Eu sou o Vitor Dourado
+### Olá! Eu sou o Dev Vitor Dourado
 ## My Skills
 
-#### Main Stack:
+#### Back End:
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c%&logoColor=purple)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=blue)
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Studying in this moment:
+#### Front End:
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red)
 
