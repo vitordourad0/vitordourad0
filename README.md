@@ -1,7 +1,5 @@
 ### Hello World! I am Dev Vitor Dourado
-## My Skills
 
-#### Back End:
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red)
