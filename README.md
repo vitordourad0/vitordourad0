@@ -18,14 +18,11 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualcode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
-
 ## Contacts:
 
 <div> 
 <a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </a> 
-</div>&nbsp;&nbsp;
+</div>
           
