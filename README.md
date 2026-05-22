@@ -26,9 +26,7 @@ Contacts:
 
 ## 📊 Contribution Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitordourad0&show_icons=true&theme=dark)
-
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitordourad0&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordourad0&layout=compact&theme=dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitordourad0)
           
