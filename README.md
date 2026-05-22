@@ -23,4 +23,12 @@ Contacts:
 <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </a> 
 </div>
+
+## 📊 Contribution Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitordourad0&show_icons=true&theme=dark)
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitordourad0&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordourad0&layout=compact&theme=dark)
           
