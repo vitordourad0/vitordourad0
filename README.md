@@ -24,9 +24,5 @@ Contacts:
 </a> 
 </div>
 
-## 📊 Contribution Overview
-
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitordourad0&theme=dark)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitordourad0)
-          
+         
