@@ -24,5 +24,5 @@ Contacts:
 </a> 
 </div>
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitordourad0&theme=dark)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitordourad0&theme=dark,align="center")
          
