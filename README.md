@@ -1,5 +1,5 @@
 ### Hello World! I am Dev Vitor Dourado
-My BackEnd Skills
+Main Stacks
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red)
@@ -9,7 +9,6 @@ My BackEnd Skills
 Contacts:
 
 <div> 
-<a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </a> 
 </div>
